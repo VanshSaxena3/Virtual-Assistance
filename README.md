@@ -1,0 +1,1 @@
+Virtual Assistance is a client-side web application that simulates a conversational virtual assistant. It helps users manage simple tasks, answer common questions, and interact via an intuitive chat-based interface. The project is fully implemented using HTML, CSS, and JavaScript, providing a responsive and dynamic user experience.
